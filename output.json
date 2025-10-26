@@ -1,0 +1,281 @@
+[ {
+  "name" : "Small Graph 1",
+  "vertices" : 30,
+  "edges" : 119,
+  "prim_cost" : 244.0,
+  "kruskal_cost" : 244.0,
+  "prim_time_ms" : 4,
+  "kruskal_time_ms" : 1,
+  "prim_ops" : 0,
+  "kruskal_ops" : 0
+}, {
+  "name" : "Small Graph 2",
+  "vertices" : 30,
+  "edges" : 118,
+  "prim_cost" : 267.0,
+  "kruskal_cost" : 267.0,
+  "prim_time_ms" : 0,
+  "kruskal_time_ms" : 1,
+  "prim_ops" : 0,
+  "kruskal_ops" : 0
+}, {
+  "name" : "Small Graph 3",
+  "vertices" : 30,
+  "edges" : 117,
+  "prim_cost" : 253.0,
+  "kruskal_cost" : 253.0,
+  "prim_time_ms" : 0,
+  "kruskal_time_ms" : 0,
+  "prim_ops" : 0,
+  "kruskal_ops" : 0
+}, {
+  "name" : "Small Graph 4",
+  "vertices" : 30,
+  "edges" : 116,
+  "prim_cost" : 251.0,
+  "kruskal_cost" : 251.0,
+  "prim_time_ms" : 0,
+  "kruskal_time_ms" : 0,
+  "prim_ops" : 0,
+  "kruskal_ops" : 0
+}, {
+  "name" : "Small Graph 5",
+  "vertices" : 30,
+  "edges" : 114,
+  "prim_cost" : 261.0,
+  "kruskal_cost" : 261.0,
+  "prim_time_ms" : 0,
+  "kruskal_time_ms" : 0,
+  "prim_ops" : 0,
+  "kruskal_ops" : 0
+}, {
+  "name" : "Medium Graph 1",
+  "vertices" : 300,
+  "edges" : 1195,
+  "prim_cost" : 2262.0,
+  "kruskal_cost" : 2262.0,
+  "prim_time_ms" : 4,
+  "kruskal_time_ms" : 1,
+  "prim_ops" : 0,
+  "kruskal_ops" : 0
+}, {
+  "name" : "Medium Graph 2",
+  "vertices" : 300,
+  "edges" : 1195,
+  "prim_cost" : 2243.0,
+  "kruskal_cost" : 2243.0,
+  "prim_time_ms" : 3,
+  "kruskal_time_ms" : 2,
+  "prim_ops" : 0,
+  "kruskal_ops" : 0
+}, {
+  "name" : "Medium Graph 3",
+  "vertices" : 300,
+  "edges" : 1198,
+  "prim_cost" : 2533.0,
+  "kruskal_cost" : 2533.0,
+  "prim_time_ms" : 1,
+  "kruskal_time_ms" : 3,
+  "prim_ops" : 0,
+  "kruskal_ops" : 0
+}, {
+  "name" : "Medium Graph 4",
+  "vertices" : 300,
+  "edges" : 1196,
+  "prim_cost" : 2402.0,
+  "kruskal_cost" : 2402.0,
+  "prim_time_ms" : 2,
+  "kruskal_time_ms" : 2,
+  "prim_ops" : 0,
+  "kruskal_ops" : 0
+}, {
+  "name" : "Medium Graph 5",
+  "vertices" : 300,
+  "edges" : 1197,
+  "prim_cost" : 2498.0,
+  "kruskal_cost" : 2498.0,
+  "prim_time_ms" : 1,
+  "kruskal_time_ms" : 1,
+  "prim_ops" : 0,
+  "kruskal_ops" : 0
+}, {
+  "name" : "Medium Graph 6",
+  "vertices" : 300,
+  "edges" : 1197,
+  "prim_cost" : 2322.0,
+  "kruskal_cost" : 2322.0,
+  "prim_time_ms" : 0,
+  "kruskal_time_ms" : 3,
+  "prim_ops" : 0,
+  "kruskal_ops" : 0
+}, {
+  "name" : "Medium Graph 7",
+  "vertices" : 300,
+  "edges" : 1195,
+  "prim_cost" : 2185.0,
+  "kruskal_cost" : 2185.0,
+  "prim_time_ms" : 1,
+  "kruskal_time_ms" : 1,
+  "prim_ops" : 0,
+  "kruskal_ops" : 0
+}, {
+  "name" : "Medium Graph 8",
+  "vertices" : 300,
+  "edges" : 1197,
+  "prim_cost" : 2386.0,
+  "kruskal_cost" : 2386.0,
+  "prim_time_ms" : 1,
+  "kruskal_time_ms" : 0,
+  "prim_ops" : 0,
+  "kruskal_ops" : 0
+}, {
+  "name" : "Medium Graph 9",
+  "vertices" : 300,
+  "edges" : 1195,
+  "prim_cost" : 2150.0,
+  "kruskal_cost" : 2150.0,
+  "prim_time_ms" : 1,
+  "kruskal_time_ms" : 2,
+  "prim_ops" : 0,
+  "kruskal_ops" : 0
+}, {
+  "name" : "Medium Graph 10",
+  "vertices" : 300,
+  "edges" : 1196,
+  "prim_cost" : 2265.0,
+  "kruskal_cost" : 2265.0,
+  "prim_time_ms" : 0,
+  "kruskal_time_ms" : 1,
+  "prim_ops" : 0,
+  "kruskal_ops" : 0
+}, {
+  "name" : "Large Graph 1",
+  "vertices" : 1000,
+  "edges" : 3995,
+  "prim_cost" : 7603.0,
+  "kruskal_cost" : 7603.0,
+  "prim_time_ms" : 4,
+  "kruskal_time_ms" : 3,
+  "prim_ops" : 0,
+  "kruskal_ops" : 0
+}, {
+  "name" : "Large Graph 2",
+  "vertices" : 1000,
+  "edges" : 3999,
+  "prim_cost" : 7665.0,
+  "kruskal_cost" : 7665.0,
+  "prim_time_ms" : 4,
+  "kruskal_time_ms" : 3,
+  "prim_ops" : 0,
+  "kruskal_ops" : 0
+}, {
+  "name" : "Large Graph 3",
+  "vertices" : 1000,
+  "edges" : 3996,
+  "prim_cost" : 7902.0,
+  "kruskal_cost" : 7902.0,
+  "prim_time_ms" : 3,
+  "kruskal_time_ms" : 4,
+  "prim_ops" : 0,
+  "kruskal_ops" : 0
+}, {
+  "name" : "Large Graph 4",
+  "vertices" : 1000,
+  "edges" : 3994,
+  "prim_cost" : 7476.0,
+  "kruskal_cost" : 7476.0,
+  "prim_time_ms" : 2,
+  "kruskal_time_ms" : 2,
+  "prim_ops" : 0,
+  "kruskal_ops" : 0
+}, {
+  "name" : "Large Graph 5",
+  "vertices" : 1000,
+  "edges" : 3996,
+  "prim_cost" : 7884.0,
+  "kruskal_cost" : 7884.0,
+  "prim_time_ms" : 3,
+  "kruskal_time_ms" : 2,
+  "prim_ops" : 0,
+  "kruskal_ops" : 0
+}, {
+  "name" : "Large Graph 6",
+  "vertices" : 1000,
+  "edges" : 3998,
+  "prim_cost" : 7715.0,
+  "kruskal_cost" : 7715.0,
+  "prim_time_ms" : 4,
+  "kruskal_time_ms" : 2,
+  "prim_ops" : 0,
+  "kruskal_ops" : 0
+}, {
+  "name" : "Large Graph 7",
+  "vertices" : 1000,
+  "edges" : 3993,
+  "prim_cost" : 8090.0,
+  "kruskal_cost" : 8090.0,
+  "prim_time_ms" : 2,
+  "kruskal_time_ms" : 3,
+  "prim_ops" : 0,
+  "kruskal_ops" : 0
+}, {
+  "name" : "Large Graph 8",
+  "vertices" : 1000,
+  "edges" : 3995,
+  "prim_cost" : 8115.0,
+  "kruskal_cost" : 8115.0,
+  "prim_time_ms" : 3,
+  "kruskal_time_ms" : 7,
+  "prim_ops" : 0,
+  "kruskal_ops" : 0
+}, {
+  "name" : "Large Graph 9",
+  "vertices" : 1000,
+  "edges" : 3996,
+  "prim_cost" : 8104.0,
+  "kruskal_cost" : 8104.0,
+  "prim_time_ms" : 2,
+  "kruskal_time_ms" : 3,
+  "prim_ops" : 0,
+  "kruskal_ops" : 0
+}, {
+  "name" : "Large Graph 10",
+  "vertices" : 1000,
+  "edges" : 3995,
+  "prim_cost" : 7951.0,
+  "kruskal_cost" : 7951.0,
+  "prim_time_ms" : 3,
+  "kruskal_time_ms" : 4,
+  "prim_ops" : 0,
+  "kruskal_ops" : 0
+}, {
+  "name" : "Extra Large Graph 1 (1300 nodes)",
+  "vertices" : 1300,
+  "edges" : 5197,
+  "prim_cost" : 10324.0,
+  "kruskal_cost" : 10324.0,
+  "prim_time_ms" : 3,
+  "kruskal_time_ms" : 2,
+  "prim_ops" : 0,
+  "kruskal_ops" : 0
+}, {
+  "name" : "Extra Large Graph 2 (1600 nodes)",
+  "vertices" : 1600,
+  "edges" : 6395,
+  "prim_cost" : 12656.0,
+  "kruskal_cost" : 12656.0,
+  "prim_time_ms" : 5,
+  "kruskal_time_ms" : 5,
+  "prim_ops" : 0,
+  "kruskal_ops" : 0
+}, {
+  "name" : "Extra Large Graph 3 (2000 nodes)",
+  "vertices" : 2000,
+  "edges" : 7997,
+  "prim_cost" : 15473.0,
+  "kruskal_cost" : 15473.0,
+  "prim_time_ms" : 5,
+  "kruskal_time_ms" : 12,
+  "prim_ops" : 0,
+  "kruskal_ops" : 0
+} ]
